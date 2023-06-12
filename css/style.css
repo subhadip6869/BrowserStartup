@@ -29,7 +29,7 @@
 
 .body header {
     width: 80%;
-    margin: 8rem auto 0 auto;
+    margin: 5rem auto 0 auto;
 }
 
 .body header .title {
@@ -135,5 +135,8 @@
     .quick-links {
         width: 80%;
         margin: 5% auto;
+    }
+    .body header form input[type=search] {
+        width: 80%;
     }
 }
