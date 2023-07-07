@@ -169,6 +169,7 @@
     height: inherit;
     padding: 8px;
     vertical-align: middle;
+    border-radius: 15px;
 }
 .quick-links span {
     color: #ffffff;
